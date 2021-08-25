@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Asia132005
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning HTML, CSS
